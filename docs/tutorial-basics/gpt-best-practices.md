@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# ChatGPT 最佳实践
+# ChatGPT 最佳实践 「官方出品」
 
 OpenAI官方出品的「GPT最佳实践」，差不多就是另一种意义上的「职场基础沟通指南」，能和同事好好沟通的人大概率也能用好GPT。
 

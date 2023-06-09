@@ -78,7 +78,7 @@ const config = {
           },
           { to: "/blog", label: "资讯 & 工具", position: "left" },
           {
-            href: "https://www.ruankao168.top/",
+            href: "https://ruankao.eu.org/",
             label: "官网",
             position: "right",
           },
@@ -94,6 +94,10 @@ const config = {
                 label: "教程",
                 to: "/docs/intro",
               },
+              {
+                label: "AI导航站",
+                href: "https://nav.ruankao168.top/",
+              },
             ],
           },
           {
@@ -101,7 +105,7 @@ const config = {
             items: [
               {
                 label: "官网",
-                href: "https://www.ruankao168.top/",
+                href: "https://ruankao.eu.org/",
               },
               {
                 label: "免费的ChatGPT",
